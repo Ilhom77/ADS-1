@@ -4,7 +4,7 @@
 
 
 bool checkPrime(uint64_t value) {
-// вставьте код функции
+// вставьте код функцииf
 }
 
 uint64_t nPrime(uint64_t n) {
